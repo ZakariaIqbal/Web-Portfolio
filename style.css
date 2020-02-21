@@ -25,6 +25,10 @@ p{
     margin-left: 7%;
     padding: 2%;
 }
+.Top-Halfwidth img
+{
+    width: 40%;
+}
 
 section
 {
