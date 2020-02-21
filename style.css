@@ -8,9 +8,15 @@ h1{
   
 
 }
-.Name_Highlight
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.Orenge_Highlight
 {
-    color:red;
+    color:orange;
 }
 .Top-HalfWidth
 {
@@ -38,3 +44,58 @@ section
      color: white;
      font-weight: 700;
 }
+
+.Middle-Halfwidth
+{   
+    width: 40%;
+    float: left;
+    margin-right: 5%;
+    padding: 2%;
+}
+
+.Middle-Banner
+{  
+    background-image: url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+   
+
+}
+.Bottom-Halfwidth
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+.single-expreience
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 50%;
+
+
+
+}
+.Bottom-Side
+{
+ background-image: url("img/exp-bg.png");
+ background-repeat: no-repeat;
+    
+}
+#Full-Stack
+{
+    background-color: honeydew;
+  border-left: 7px solid ;
+  border-image: linear-gradient(180deg,lightSalmon,tomato);
+  border-image-slice: 1;
+  text-align:justify;  
+}
+#Baby-web
+{
+    border-left: 7px solid ;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1; 
+    text-align: justify;   
+  }
