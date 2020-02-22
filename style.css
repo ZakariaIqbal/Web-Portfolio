@@ -18,16 +18,16 @@ p{
 {
     color:orange;
 }
-.Top-HalfWidth
+.HalfWidth
 {
     width: 40%;
     float: left;
-    margin-left: 7%;
+    margin-left : 5%;
     padding: 2%;
 }
-.Top-Halfwidth img
+.HalfWidth img
 {
-    width: 40%;
+    width: 80%;
 }
 
 section
@@ -42,51 +42,29 @@ section
 .link-button
 {
      text-decoration: none;
- background-image: linear-gradient(45deg,lightSalmon, tomato);
+     background-image: linear-gradient(45deg,lightSalmon, tomato);
      padding: 10px 20px;
      border-radius: 40px;
      color: white;
      font-weight: 700;
 }
 
-.Middle-Halfwidth
-{   
-    width: 40%;
-    float: left;
-    margin-right: 5%;
-    padding: 2%;
-}
-
 .Middle-Banner
 {  
     background-image: url("img/dream-bg.png");
     background-repeat: no-repeat;
-    background-position: right;
-   
-
-}
-.Bottom-Halfwidth
-{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding: 2%;
-
+    background-position: right;   
 }
 .single-expreience
 {
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
     height: 50%;
-
-
-
 }
 .Bottom-Side
 {
  background-image: url("img/exp-bg.png");
- background-repeat: no-repeat;
-    
+ background-repeat: no-repeat;    
 }
 #Full-Stack
 {
